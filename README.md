@@ -12,4 +12,7 @@ The 2d lighting system based on CocosCreater is simple, efficient and easy to us
 
 1. 点击 [Cocos Store](https://store.cocos.com/app/search?name=soida) 即可看到(还未上线).
 2. 你可以先加 qq 群获取最新消息: 1044961417
-   ![](./imgs/1.jpg)
+
+<p align="center">
+  <img src="./imgs/1.jpg" alt="帮助图片" />
+</p>
